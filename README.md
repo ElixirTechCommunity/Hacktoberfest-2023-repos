@@ -3,9 +3,9 @@ This Repo is for Hacktoberfest 2023 Contribution, It Contains Variety of Project
 
 ## What is Hacktoberfest
 
-Hacktoberfest is a month-long celebration of open source projects, their maintainers, and the entire community of contributors. Each October, open source maintainers give new contributors extra attention as they guide developers through their first pull requests on GitHub.
+Hacktoberfest is a month-long celebrations of open source projects, their maintainers, and the entire community of contributors. Each October, open source maintainers give new contributors extra attention as they guide developers through their first pull requests on GitHub.
 
-## Projects for Hacktoberfest2022
+## Projects for Hacktoberfest 2023
 
 | Serial No. | Repository| Link to Issue  | Language |
 |:--|:--|:--|:--|
