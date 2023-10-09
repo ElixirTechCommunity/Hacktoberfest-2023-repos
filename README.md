@@ -3,7 +3,7 @@ This Repo is for Hacktoberfest 2023 Contribution, It Contains Variety of Project
 
 ## What is Hacktoberfest
 
-This year marks the 10th anniversary of Hacktoberfest, and we’re calling on your support! Whether it’s your first time participating—or your tenth—it’s almost time to hack out four pristine pull/merge requests as we continue our month of support for open source.
+Hacktoberfest is a month-long celebration of open source projects, their maintainers, and the entire community of contributors. Each October, open source maintainers give new contributors extra attention as they guide developers through their first pull requests on GitHub.
 
 ## Projects for Hacktoberfest2022
 
