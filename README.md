@@ -21,14 +21,6 @@ Hacktoberfest is a month-long celebrations of open source projects, their mainta
 
 
 
-  
-
-
-
-
-## Projects for Hacktoberfest2023
-
-
 <h1 align=center> Made With Love By Elixir ❤️ </h1>
 <p align="center">
   <a href="https://www.elixircommunity.live/"><img src="https://avatars.githubusercontent.com/ElixirTechCommunity" width=150px height=150px /></a>
