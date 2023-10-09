@@ -1,5 +1,5 @@
 # Hacktoberfest-2023
-This Repo is for Hacktoberfest 2023 Contribution, It Contains Variety of Projects Like Technical Writing, Frontend, Backend and many more.
+This Repo is for Hacktoberfest 2023 Contribution, It Contains Variety of Projects Like Frontend, Backend, AI/ML and many more.
 
 ## What is Hacktoberfest
 
